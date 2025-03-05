@@ -1,0 +1,3 @@
+2025/02/28-04:50:00.136 aece Reusing MANIFEST /home/deploy/wastorage/backend/.wwebjs_auth/session/Default/shared_proto_db/metadata/MANIFEST-000001
+2025/02/28-04:50:00.136 aece Recovering log #3
+2025/02/28-04:50:00.136 aece Reusing old log /home/deploy/wastorage/backend/.wwebjs_auth/session/Default/shared_proto_db/metadata/000003.log 
