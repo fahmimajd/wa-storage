@@ -1,0 +1,5 @@
+node_modules/
+storage/
+backend/.wwebjs_auth/
+frontend/build/
+*.log
