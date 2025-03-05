@@ -1,4 +1,4 @@
-node_modules/
+backend/node_modules/
 storage/
 backend/.wwebjs_auth/
 frontend/build/
