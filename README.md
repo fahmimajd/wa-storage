@@ -19,12 +19,12 @@ Aplikasi untuk menyimpan gambar dari WhatsApp ke server dan mengelolanya via web
 ## Langkah Instalasi
 
 ### 1. Clone Repositori
-```
+
 git clone https://github.com/username/whatsapp-storage-app.git
 cd whatsapp-storage-app
 
 ### 2. Setup Backend
-```
+
 Masuk ke direktori backend:
 
 cd backend
@@ -71,7 +71,7 @@ Generate hash dengan bcrypt:
 
 node -e "require('bcrypt').hash('admin123', 10).then(hash => console.log(hash))"
 ### 3. Setup Frontend
-```
+
 Masuk ke direktori frontend:
 
 cd ../frontend
