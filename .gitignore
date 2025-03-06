@@ -1,5 +1,6 @@
-backend/node_modules/
+node_modules/
 storage/
 backend/.wwebjs_auth/
 frontend/build/
 *.log
+bfg.jar
