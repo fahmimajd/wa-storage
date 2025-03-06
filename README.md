@@ -123,16 +123,16 @@ sudo ufw allow 3000
 
 ## Akses:
 
-Backend: http://<server-ip>:5000
-Frontend: http://<server-ip>:3000
+- Backend: http://<server-ip>:5000
+- Frontend: http://<server-ip>:3000
 
 ## Penggunaan
 
-Buka <server-ip>:3000/login.
-Login dengan kredensial (misalnya: admin/admin123).
-Scan QR di halaman Connection untuk hubungkan WhatsApp.
-Kirim gambar ke nomor server via WhatsApp.
-Kelola file, kontak, dan user via web.
+- Buka <server-ip>:3000/login.
+- Login dengan kredensial (misalnya: admin/admin123).
+- Scan QR di halaman Connection untuk hubungkan WhatsApp.
+- Kirim gambar ke nomor server via WhatsApp.
+- Kelola file, kontak, dan user via web.
 
 ## Disclaimer
 
